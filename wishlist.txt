@@ -1,7 +1,12 @@
-Minecraft
-Stardew Valley
-Hollow Knight
-Terraria
-Valorant
-Genshin Impact
-Roblox
+Action
+- Valorant
+- Overwatch 2
+
+Adventure
+- Minecraft
+- Terraria
+
+RPG
+- Genshin Impact
+- Stardew Valley
+- Hollow Knight
